@@ -1,316 +1,186 @@
-<h1 align="center">Hi 👋, I'm Rajnish Goyal</h1>
-<h3 align="center">Deep-Tech Engineer ⚡ | Renewable Energy Founder 🚀 | Embedded & Cloud Systems Builder</h3>
+# 👋 Hi, I'm Rajnish Goyal
 
-<p align="center">
-I build technology at the intersection of <b>energy systems, embedded hardware, and cloud infrastructure</b>.
-</p>
-
-<p align="center">
-<a href="https://github.com/dev-rajnishg"><img src="https://img.shields.io/github/followers/dev-rajnishg?label=Followers&style=social"></a>
-<a href="https://github.com/dev-rajnishg"><img src="https://img.shields.io/github/stars/dev-rajnishg?style=social"></a>
-</p>
+⚡ **Founder & CEO — EonForge Apex**
+🔧 Electrical Engineer + Computer Science Minor
+🚀 Builder of systems, infrastructure, and deep-tech energy solutions
 
 ---
 
-# 🚀 About Me
+# ⚡ About Me
 
-I'm **Rajnish Goyal**, an engineer and entrepreneur focused on building **deep-tech systems that combine hardware innovation with modern software infrastructure**.
+I'm an **engineer, founder, and systems builder** working at the intersection of **energy, hardware, and software infrastructure**.
 
-My work spans across multiple engineering domains:
+Currently I’m building **EonForge Apex**, a deep-tech startup developing **low-temperature geothermal baseload power systems** designed to deliver **24/7 clean electricity at ~40% lower cost**.
 
-⚡ Electrical engineering
-💻 Software development
-🤖 Embedded systems
-☁️ Cloud infrastructure
-🌱 Renewable energy technology
+My work spans:
 
-Instead of specializing in just one layer of technology, I enjoy building **complete engineering systems** — from physical hardware and embedded controllers to backend services and monitoring platforms.
+⚡ Energy systems & geothermal technology
+🧠 Systems programming & infrastructure tools
+☁️ Cloud automation & developer tooling
+🔌 Embedded systems & IoT platforms
 
-Currently pursuing **Bachelor of Engineering in Electrical Engineering with a Minor in Computer Science** at **Chitkara University (2022 – 2026)**.
-
----
-
-# 🚀 Entrepreneurial Journey
-
-## Founder — Eonforge Apex Private Limited
-
-I founded **Eonforge Apex Pvt Ltd**, a renewable energy startup focused on **next-generation electricity generation technologies**.
-
-The vision behind Eonforge Apex is simple:
-
-> The world does not just need better solar panels or bigger wind turbines — it needs entirely new ways to generate and distribute energy.
-
-Our goal is to explore **innovative, research-driven energy systems** capable of transforming how electricity is produced and used.
-
-### 🌍 Mission
-
-To develop **scalable, sustainable, and innovative energy technologies** that can help reduce global dependence on fossil fuels while making electricity more accessible worldwide.
-
-### 🏭 Company Overview
-
-Industry: Renewable Energy / Energy Technology
-Founded: 2024
-Location: India
-Stage: Early-stage innovation startup
-
-### 🔬 Core Focus Areas
-
-⚡ Advanced electricity generation technologies
-🌱 Sustainable energy infrastructure
-🔬 Research-driven engineering innovation
-⚙️ Hardware + software energy systems
-
-### 🧠 My Role
-
-As the founder, I lead multiple aspects of the company:
-
-• Technology strategy and research direction
-• Engineering development and prototyping
-• Product innovation and long-term roadmap
-• Startup operations and partnerships
-
-Eonforge Apex represents my long-term mission to contribute to **the future of global energy technology**.
+I enjoy building **high-impact technical systems** — from **energy infrastructure** to **developer productivity tools**.
 
 ---
 
-# 🧠 Engineering Approach
+# 🚀 Founder
 
-I enjoy building **complete engineering ecosystems**, not isolated projects.
+## EonForge Apex
 
-A typical system I design may include:
+⚡ **24/7 Baseload Geothermal Energy from Low-Temperature Resources**
 
-Hardware Systems
-↓
-Embedded Controllers
-↓
-Data Processing Software
-↓
-Cloud Infrastructure
-↓
-Monitoring Dashboards
+EonForge Apex is developing a **patent-pending geothermal power system** that converts **low-temperature geothermal heat (85°C+) into electricity** using a novel **Nitinol-based thermal engine + MHD generator architecture**.
 
-This approach allows prototypes to evolve into **real-world deployable technologies**.
+### Core Innovation
 
----
+• **Shape-Memory Alloy (Nitinol) Engine**
+• **Magnetohydrodynamic Generator** (no moving parts)
+• **Continuous Baseload Power**
+• **Zero Fuel Cost**
+• **Zero Carbon Emissions**
 
-# 🛠️ Technology Stack
+### Impact
 
-### Programming
+🌍 Unlocks geothermal resources **previously unusable by conventional systems**
 
-C
-C++
-Python
-SQL
-JavaScript
-HTML
-CSS
+⚡ Delivers **24/7 industrial baseload power**
 
-### Cloud & Infrastructure
+💰 Up to **40% lower maintenance costs**
 
-AWS
-Docker
-Linux
-CLI Automation
-Server Monitoring
+📈 Expands viable geothermal sites by **~3x**
 
-### Embedded Systems
+### Validation
 
-Arduino
-Microcontrollers
-Sensor integration
-Embedded firmware
-Power electronics
-
-### Software Systems
-
-React
-Flask
-REST APIs
-WebSockets
-Distributed monitoring systems
-
-### Tools
-
-Git
-GitHub
-Bash
-Systemd
-Networking tools
+✔ Patent Application Filed – *Nitinol-MHD Geothermal System*
+✔ 2.5 years R&D with materials science experts
+✔ Government innovation program **IdeaThon Winner**
+✔ Industrial partners exploring pilot deployment
 
 ---
 
-# 🚀 Featured Engineering Projects
+# 🧠 Engineering Projects
 
 ## ☁️ AWS Assistant Toolkit
 
-A cross-platform **Python CLI automation tool** designed to simplify complex AWS workflows.
+Python CLI tool automating **80% of routine AWS operations**.
 
-The tool was built to eliminate repetitive DevOps tasks and dramatically speed up cloud operations.
+Highlights
 
-Key capabilities:
-
-• Automates ~80% of common AWS tasks
-• Reduces console work **10–15 minutes → ~30 seconds**
-• Supports EC2, S3, Lambda, ECS workflows
-• Safety confirmation system for critical operations
-• Built-in operational logging
-
-Impact:
-
-• Reduced operational mistakes by **~90% vs raw AWS CLI**
-• Achieved **85% automated test coverage**
-• Improved cloud workflow productivity **5x**
+• Supports **S3, EC2, Lambda, ECS, EKS**
+• **20× faster workflows** (10-15 min → 30 sec)
+• Docker → ECR → ECS/Lambda automation
+• 50+ commands with IAM scanning and logging
+• **85% test coverage**
 
 ---
 
-## 📡 Device Sensor Data Logger (C++)
+## 📡 Device Sensor Data Logger (C++17)
 
-A high-performance **IoT sensor data logging platform** designed for reliability and efficiency.
+High-performance **IoT sensor logging system**.
 
-Capabilities:
+Features
 
-• Processes **50+ sensor samples per second**
-• Uses **<1% CPU usage**
-• Supports **CSV and SQLite data storage**
-
-Engineering features:
-
+• Logs to **CSV + SQLite**
+• **50+ samples/sec at <1% CPU**
 • Threaded sensor sampling
-• Data validation pipelines
-• Threshold-based alert system
-• Cross-platform simulation environment
+• Linux UART + Windows simulation
 
-Impact:
+Impact
 
-• Reduced data corruption by **~95%**
-• Reduced analysis time **5 minutes → 15 seconds**
-• Accelerated IoT development workflows
+• **95% reduction in data corruption**
+• **20× faster analysis**
 
 ---
 
-## 📊 SysNetMon — Infrastructure Monitoring Platform
+## 🖥 SysNetMon
 
-A distributed monitoring system designed for **real-time infrastructure observability**.
+Real-time **system monitoring platform** built with React + Flask.
 
-Stack:
+Capabilities
 
-React + Flask + WebSockets
+• Monitor **50+ servers**
+• WebSocket real-time dashboard
+• Rule-based alerts
+• Cross-platform monitoring agents
 
-Capabilities:
+Impact
 
-• Live monitoring dashboard
-• Cross-platform system agents
-• Email alerting system
-• Infrastructure visibility for **50+ servers**
-
-Engineering impact:
-
-• Reduced troubleshooting time **10–20 min → ~4 min**
-• Reduced mean-time-to-repair **45 min → ~8 min**
-• Provides lightweight observability alternative to expensive enterprise tools
+• **70% faster troubleshooting**
+• MTTR reduced **45 min → 8 min**
 
 ---
 
-## ⚡ Electric Bike Conversion Project
+## 🔋 Electric Bike Conversion (EV)
 
-Converted a traditional petrol motorcycle into a **fully electric vehicle prototype**.
+Converted an **oil-powered motorcycle into an electric vehicle**.
 
-Engineering components:
+• Arduino-based motor control system
+• Custom battery & power circuitry
+• Led **14-member engineering team**
 
-⚡ Arduino-based motor controller
-⚡ Custom power electronics design
-⚡ Battery system integration
-
-Leadership highlights:
-
-• Led a **14-member interdisciplinary engineering team**
-• Secured **₹2 lakh project funding**
-
-Awards:
-
-🏆 Governor's Award — EV Auto Expo 2023
-🏆 Innovation Prize — ISIE India SEI 2023
+🏆 **Governor's Award — EV Auto Expo 2023**
+🏆 **Innovation Prize — ISIE India SEI 2023**
 
 ---
 
-# 🧪 Engineering Experience
+# 🛠 Tech Stack
 
-## Student Trainee — Department of Interdisciplinary Courses in Engineering (DICE)
+### Languages
+
+C • C++ • Python • SQL • HTML • CSS
+
+### Systems & Hardware
+
+Embedded Systems • Arduino • Microcontrollers • IoT • Linux
+
+### Cloud & Infrastructure
+
+AWS • Docker • System Monitoring • DevOps Automation
+
+### Energy & Engineering
+
+Renewable Energy • Electric Vehicles • Power Systems
+
+---
+
+# 🎓 Education
+
+**B.E. Electrical Engineering**
+Minor in **Computer Science**
 
 Chitkara University
-Sep 2022 – Jun 2024
-
-Responsibilities:
-
-• Developed interdisciplinary engineering projects
-• Built IoT prototypes and embedded systems
-• Integrated hardware with software platforms
-• Presented projects at engineering innovation expos
-
-Focus areas:
-
-⚡ Embedded systems
-⚡ Renewable energy engineering
-⚡ IoT technologies
-⚡ system automation
+2022 — 2026
 
 ---
 
-# 🏅 Leadership
+# 🏆 Leadership
 
-### Core Management Member — DICE
+**Core Management Member — DICE (Department of Interdisciplinary Courses in Engineering)**
 
-Chitkara University
-
-• Organized engineering innovation initiatives
-• Coordinated technical workshops
-• Helped connect **200+ students with industry professionals**
+Helped organize engineering innovation programs and initiatives connecting **200+ students with industry projects and workshops.**
 
 ---
 
-# 📜 Certifications
-
-Python for Data Access — Coursera
-Cyber Security & Networking Essentials — Cisco
-Linux Fundamentals — Linux Foundation
-Electrical Design — Larsen & Toubro
-Industrial Automation — CUIET
-
----
-
-# 🎯 Areas of Interest
-
-⚡ Renewable energy technology
-🤖 Embedded and IoT systems
-☁️ Cloud infrastructure engineering
-🔐 Cybersecurity and distributed systems
-🚗 Electric vehicles and smart mobility
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=dev-rajnishg&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-rajnishg&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-# 🤝 Connect With Me
-
-📧 Email
-[rajnishgoyal214@gmail.com](mailto:rajnishgoyal214@gmail.com)
+# 🌐 Connect With Me
 
 💼 LinkedIn
-https://linkedin.com/in/rajnish-goyal
+https://www.linkedin.com/in/rajnish-goyal/
 
 💻 GitHub
 https://github.com/dev-rajnishg
 
+📧 Email
+[rajnishgoyal214@gmail.com](mailto:rajnishgoyal214@gmail.com)
+
 ---
 
-⭐ If you're interested in deep-tech innovation, renewable energy systems, or engineering collaboration, feel free to connect.
+# ⚡ Philosophy
+
+> Energy is a human right.
+> Technology should expand access, not limit it.
+
+I build systems that **scale, endure, and solve real infrastructure problems.**
+
+---
+
+⭐ If you're interested in **deep-tech energy, systems engineering, or building ambitious technology**, let's connect.
