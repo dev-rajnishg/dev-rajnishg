@@ -14,27 +14,12 @@
 
 **BE Electrical+CS @Chitkara | Eonforge Founder | Infosys Senior Consultant Referral | 20x Faster DevOps Tools**
 
-📍 **Chandigarh, India** | 📧 rajnishgoyal214@gmail.com | 🔗 [LinkedIn](https://linkedin.com/in/rajnish-goyal/) | 🐦 [@dev_rajnishg](https://x.com/dev_rajnishg)
+📍 **Chandigarh, India** | 📧 rajnishgoyal214@gmail.com | 🔗 [LinkedIn](https://linkedin.com/in/rajnish-goyal/)
 
----
-
-## 🚀 **PINNED PROJECTS** *(85-100% Test Coverage | Production-Ready)*
+## 🚀 **CORE PROJECTS** *(85-100% Test Coverage)*
 
 | <img height="25" src="https://cdn.simpleicons.org/aws/FF9900"/> **AWS Assistant Toolkit v2.0** | <img height="25" src="https://cdn.simpleicons.org/cplusplus/00599C"/> **Sensor Logger** | <img height="25" src="https://cdn.simpleicons.org/react/00D3E0"/> **SysNetMon** |
 |-------------------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|
 | **20x Faster** AWS ops *(S3/EC2/Lambda/ECS/EKS/ECR)*<br>`pip install aws-assistant-toolkit` | **50+ samples/sec** IoT *(CSV/SQLite)*<br>Linux UART + Windows | **70% Faster** troubleshooting *(50+ servers)*<br>React+Flask+WebSocket |
 | TUI Safety (90% error cut) \| 50+ cmds \| PyPI Live | 100% Tests \| Threshold Alerts | 99.9% Uptime \| SNMP Agents |
-| [![Star](https://img.shields.io/github/stars/dev-rajnishg/AWS-Assistant-Toolkit)](https://github.com/dev-rajnishg/AWS-Assistant-Toolkit) | [![Star](https://img.shields.io/github/stars/dev-rajnishg/device-sensor-logger)](https://github.com/dev-rajnishg/device-sensor-logger) | [![Star](https://img.shields.io/github/stars/dev-rajnishg/SysNetMon)](https://github.com/dev-rajnishg/SysNetMon) |
-
----
-
-## 📊 **EFFICIENCY METRICS** *(Real Impact Numbers)*
-
-```mermaid
-graph TB
-    A["AWS CLI<br/>20x Faster<br/>10min→30sec"] --> B["90% Error Reduction"]
-    C["C++ IoT<br/>50+ samples/sec<br/><1% CPU"] --> D["95% Data Integrity"]
-    E["SysNetMon<br/>70% MTTR Cut<br/>45→8min"] --> F["99.9% Uptime"]
-    style A fill:#FF9900
-    style C fill:#00599C
-    style E fill:#00D3E0
+| [![Star](https://img.shields.io/github/stars/dev-rajnishg/AWS-Assistant-Toolkit)](https://github.com/dev-rajnishg/AWS-Assistant-Toolkit) | [![Star](https://img.shields.io/github/stars/dev-rajnishg/device-sensor-logger)](https://github.com/dev-rajnishg/device-sensor-logger) | [![Star
